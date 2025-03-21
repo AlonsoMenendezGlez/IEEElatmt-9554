@@ -36,5 +36,5 @@ The files of the repository are organized as follows:
   - `HealthStageDivision.ipynb`: Notebook for analyzing the resultant distributions with 5 techniques.
 - **CSVs**
   - This folder contains the means and variances obtained for each dataset, split into 7 files. They were inferred after the models' training in `VAE-IMS.ipynb` and `VAE-XJTU.ipynb`, and these CSVs are used in `HealthStageDivision.ipynb`
-- **Models**
-  - The `Models.zip` file contains 7 `.pth` files, one for each dataset. Each `.pth` file corresponds to one fully trained VAE and can be recovered and reused in `VAE-IMS.ipynb` or `VAE-XJTU.ipynb`.
+
+The trained models used in the manuscript can be provided upon request.
